@@ -58,7 +58,7 @@
 ### #2 Go into your projects folder (In file explorer) 
 ![image](https://github.com/gtasnail/fxdk-qbcore-autosetup/assets/100861025/126bf5bf-9089-4ad8-a32a-c6e0f448038a)
 
-### #3 `Drag the fxdk-auto-qbcore.exe into your project folder (see image above of where you should put it there should be an fxproject.json in the same folder)`
+### #3 Drag the fxdk-auto-qbcore.exe into your project folder (see image above of where you should put it there should be an fxproject.json in the same folder)
 ![image](https://github.com/gtasnail/fxdk-qbcore-autosetup/assets/100861025/ced3befb-7ca7-44b9-8a01-0c470fe861f8)
 
 ### #4 Close FXDK and run the fxdk-auto-qbcore.exe 
