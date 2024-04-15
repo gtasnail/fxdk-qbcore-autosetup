@@ -1,5 +1,7 @@
 # [FXDK](https://docs.fivem.net/docs/fxdk/) QBCore auto setup script/application
 
+*Built with pylauncher*
+
 ## What does this do?
 * Setup QBCore framework in one click
 * That's pretty much it
