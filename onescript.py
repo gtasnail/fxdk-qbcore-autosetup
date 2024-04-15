@@ -129,7 +129,7 @@ def main():
     move_path('./tmp/qbcore/server.cfg', './.fxdk/fxserver/blank.cfg')
 
     download_file('https://github.com/overextended/oxmysql/releases/download/v2.8.0/oxmysql.zip', './tmp/oxmysql.zip')
-    unzip_file('./tmp/oxmysql.zip', '[standalone]', '[standalone]/oxmysql', True)
+    unzip_file('./tmp/oxmysql.zip', '[standalone]/oxmysql', '[standalone]/oxmysql', True)
 
 
     download_file('https://github.com/ThymonA/menuv/releases/download/v1.4.1/menuv_v1.4.1.zip', './tmp/menuv.zip')
