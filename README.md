@@ -6,6 +6,8 @@
 * Setup QBCore framework in one click
 * That's pretty much it
 
+[SETUP HERE](https://github.com/gtasnail/fxdk-qbcore-autosetup?tab=readme-ov-file#how-do-i-use-this)
+
 ### It handles the auto starting of each script within you're FXDK Enviroment so you don't need to manually start each resource
 ```
                                          #((((/                                                     
