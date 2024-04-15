@@ -29,7 +29,7 @@ def unzip_file(src, dest, extra, strip_top_folder=False):
                 else:
                     with zip_ref.open(member) as source, open(target_path, 'wb') as target:
                         shutil.copyfileobj(source, target)
-        update_assets_config('./fxproject.json', dest, True)
+    update_assets_config('./fxproject.json', dest, True)
         
 def download_github(src, ref, dest, subpath=None):
     if subpath:
